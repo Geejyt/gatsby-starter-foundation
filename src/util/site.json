@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Full Stack Dev",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Apprenez le dévellopement front et back End avec full stack dev",
+    "siteUrl": "https://full-stack-devellopeur.netlify.app/",
+    "image": "/assets/th.jpg",
+    "iconimage": "/assets/th.jpg",
+    "twitterUsername": "@fullstackDev"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
