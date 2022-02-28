@@ -1,12 +1,14 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Full Stack Dev
+tagline: Dévellopeur Full-Stack
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: En savoir plus
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Nous sommes des chercheurs en dévelloppement web et dans le domaine informatique(NFT, IA, Blockchain)... Nous visons de former une élite d'informaticien doués dans leurs domaines
+
+Apprenez un métier d’avenir, grâce à Full Stack Dev, l’école nouvelle génération 100% en ligne.
